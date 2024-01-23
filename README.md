@@ -7,5 +7,10 @@
 - 다양한 변수 Type에 대한 Print
 - 다양한 변수 Type에 대한 Print / Input
 
+## Chapter 2. 연산자 [2024-01-23]
+- 다양한 형식 지정자
+- 수식 구현하기 1
+- 수식 구현하기 2
+
 # Contact
 - Email: TBD
