@@ -21,6 +21,3 @@
 - while문
 - 중첩 for문
 - for문 with Condition
-
-# Contact
-- Email: TBD
