@@ -1,3 +1,15 @@
+/*
+# ==================================================================================
+# Author: Ryu DaYoung
+# Affiliation: Hanjin University
+# Contact: Da_rong_00@hanjin.ac.kr
+#
+# This script is a part of a c practice. The purpose of this script is to
+# demonstrate basic c functionalities and to serve as a template for
+# future projects and educational purposes at Hanjin University.
+# ==================================================================================
+*/
+
 #include <stdio.h>
 
 int main() {
